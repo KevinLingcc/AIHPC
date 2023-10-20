@@ -1,0 +1,15 @@
+[submodule "triton"]
+	path = triton
+	url = git@github.com:KevinLingcc/triton.git
+[submodule "ByteMLPerf"]
+	path = ByteMLPerf
+	url = git@github.com:KevinLingcc/ByteMLPerf.git
+[submodule "pytorch"]
+	path = pytorch
+	url = git@github.com:KevinLingcc/pytorch.git
+[submodule "llvm"]
+	path = llvm-project
+	url = git@github.com:KevinLingcc/llvm-project.git
+[submodule "qemu"]
+	path = qemu
+	url = git@github.com:KevinLingcc/qemu.git
